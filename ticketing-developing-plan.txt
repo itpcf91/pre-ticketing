@@ -3,9 +3,11 @@ TICKETING DEVELOPING PLAN
 - Backend
   - Extensions Download
   - Create Folder
-    - CSS
-    - Javascript
+    - Blade Templating Engine
+    - Routing
+- Arranging Features
 - Frontend
-  - Laravel
+  - Tailwind
 - Templating
 - CSS
+- Javascript
