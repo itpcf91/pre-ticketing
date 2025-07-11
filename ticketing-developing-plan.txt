@@ -1,0 +1,8 @@
+TICKETING DEVELOPING PLAN
+
+- Backend
+  - Extensions Download
+  - Create Folder
+- Frontend
+- Templating
+- CSS
