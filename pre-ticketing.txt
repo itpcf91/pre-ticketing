@@ -1,0 +1,4 @@
+PRE TICKETING
+- Pre-event before developing laravel app
+- Github introduction
+- Learning scheduling
