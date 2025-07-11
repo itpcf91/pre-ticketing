@@ -1,0 +1,6 @@
+TICKETING DEVELOPING PLAN
+
+- Backend
+- Frontend
+- Templating
+- CSS
